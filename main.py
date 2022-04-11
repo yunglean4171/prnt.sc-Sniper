@@ -18,7 +18,7 @@ db   8D 88  V888   .88.   88      88.     88 `88.                 `\_________(_)
 """
 options = Fore.WHITE +"""
  ---------------------------------------------------------------------------
-|  Provide nuber of images to download and press [ENTER] to start sniping   |
+|  Provide number of images to download and press [ENTER] to start sniping   |
  ---------------------------------------------------------------------------
     """
 inputterminal = Fore.RED + "root@prntscsniper ~ % " + Fore.WHITE
