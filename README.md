@@ -1,5 +1,5 @@
 # prnt.sc Sniper ︻デ═一
-prnt.sc Sniper is tool made to download random screenshots from https://prnt.sc/ convert them to text and search for keywords given in **keywords.txt** file.
+prnt.sc Sniper is tool made to download random screenshots from https://prnt.sc/ read any text from these and search for keywords given in **keywords.txt** file.
 
 ![](https://i.imgur.com/cioqRE0.png)
 
